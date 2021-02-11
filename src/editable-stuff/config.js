@@ -46,6 +46,7 @@ const about = {
     I've written multiple scripts in PowerShell and Python for client to help with user provisioning, log collection and applicatoin deployment. 
     Outside of my professional work, I love hicking, meditation, soccer and watching Movies. `,
   resume: require("../editable-stuff/resume.pdf"),
+  certifications: "https://www.youracclaim.com/users/shivanandBiradar/badges"
 };
 
 // PROJECTS SECTION
