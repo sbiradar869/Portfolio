@@ -38,12 +38,12 @@ const about = {
   imageSize: 375,
   message:
     `I'm Shivanand Biradar, currently working as DevOps Engineer at ASC Technologies AG with experience in supporting mission-critical deployments 
-    and implementing devOps methodologies in the cloud.
+    and implementing DevOps methodologies in the cloud.
     
-    I started out as a support engineer resolving service tickets and started picking up intrest in Scripting and differnt automation tools 
-    to increase productiity and provide better service.
+    I started out as a support engineer resolving service tickets and started picking up intrest in Scripting and automation tools such as Ansible, Terraform 
+    to increase productivity and provide better service.
     
-    I've written multiple scripts in PowerShell and Python for client to help with user provisioning, log collection and applicatoin deployment. 
+    I've written multiple scripts in PowerShell and Python for client to help with user provisioning, log collection and application deployment. 
     Outside of my professional work, I love hicking, meditation, soccer and watching Movies. `,
   resume: require("../editable-stuff/resume.pdf"),
   certifications: "https://www.youracclaim.com/users/shivanandBiradar/badges"
